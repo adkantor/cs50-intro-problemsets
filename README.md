@@ -1,2 +1,4 @@
 # cs50-intro-problemsets
-Problem Set solutions for CS50x
+## HarvardX Course: [CS50?s Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+
+My solutions for the course's problem sets (2020).
